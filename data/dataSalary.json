@@ -1,0 +1,46 @@
+{
+	"etse":
+	[
+		{
+			"city":"New York",
+
+			"salary":84512
+		},{
+			"city":"Portland",
+
+			"salary":78878
+		},{
+			"city":"Los Angeles",
+
+			"salary":81073
+		},{
+			"city":"Denver",
+
+			"salary":75067
+		},{
+			"city":"Chicago",
+			"salary":73105
+		},{
+			"city":"Philadelphia",
+			"salary":73421
+		},{
+			"city":"Phoenix",
+			"salary":73120
+		},{
+			"city":"Las Vegas",
+			"salary":69256
+		},{
+			"city":"San Diego",
+			"salary":81930
+		},{	
+			"city":"Jacksonville",
+			"salary":67882
+		},{
+			"city":"San Francisco",
+			"salary":99027
+		},{"city":"Austin","salary":73613},{"city":"Detroit","salary":68210},{"city":"Columbus","salary":68257},{"city":"Memphis","salary":64910},{"city":"Charlotte","salary":70849},{"city":"Boston","salary":79912},{"city":"Seattle","salary":93681},{"city":"Baltimore","salary":79388},{"city":"Denver","salary":75067},{"city":"Washington DC","salary":79903},{"city":"Nashville","salary":67324
+		}
+	],
+	"se":
+	[
+		{"city":"New York","salary":106768},{"city":"Portland","salary":98146},{"city":"Los Angeles","salary":101934},{"city":"Denver","salary":93378},{"city":"Chicago","salary":90965},{"city":"Philadelphia","salary":91306},{"city":"Phoenix","salary":91192},{"city":"Las Vegas","salary":85737},{"city":"San Diego","salary":103053},{"city":"Jacksonville","salary":84107},{"city":"San Francisco","salary":124555},{"city":"Austin","salary":92064},{"city":"Detroit","salary":84077},{"city":"Columbus","salary":84004},{"city":"Memphis","salary":79877},{"city":"Charlotte","salary":87438},{"city":"Boston","salary":100729},{"city":"Seattle","salary":118034},{"city":"Baltimore","salary":99147},{"city":"Denver","salary":93378},{"city":"Washington DC","salary":100748},{"city":"Nashville","salary":83349}],"ac":[{"city":"New York","salary":61673},{"city":"Portland","salary":53828},{"city":"Los Angeles","salary":57904},{"city":"Denver","salary":55797},{"city":"Chicago","salary":56749},{"city":"Philadelphia","salary":55632},{"city":"Phoenix","salary":53815},{"city":"Las Vegas","salary":50854},{"city":"San Diego","salary":59908},{"city":"Jacksonville","salary":50416},{"city":"San Francisco","salary":66117},{"city":"Austin","salary":53957},{"city":"Detroit","salary":53611},{"city":"Columbus","salary":52418},{"city":"Memphis","salary":52875},{"city":"Charlotte","salary":53447},{"city":"Boston","salary":58780},{"city":"Seattle","salary":58007},{"city":"Baltimore","salary":57782},{"city":"Denver","salary":55797},{"city":"Washington DC","salary":61442},{"city":"Nashville","salary":51666}]}
